@@ -7,6 +7,7 @@ tags:
 comments: true
 ---
 
+
 # Principles
 
 First, go speak with potential users and try to pre-sell your product or service. Focus on problems, not solutions. Get some feedbacks(the REAL Idea)from them.
@@ -29,22 +30,19 @@ The best team will be like:
   <img width="700" height="400" src="https://cdn-images-1.medium.com/max/1600/1*YNkWVnIh5lwqAU8uzWC4nQ.png" alt="Sublime's custom image"/>
 </p>
 
+In MDP/MVP you launch the first version of your product with sufficient features, but not all, to early adopters so that you can get feedback from them. MDP/MVP and the "Build Measure Learn" feedback loop, gives you important tools to leverage your product. 
 
-# Rules
+Build something you can measure and iterate.
 
-## Where
+[MVP or MDP?](https://andrewchen.co/minimum-desirable-product/)
+
+# Steps
+
+### Old vs. New
 
 Often what you create will initially seem to fit into an existing market, but with less functionality. With the fullness of  time, it will become obvious that the job your customers are hiring you for is completely different than the “incumbents” -David Rusenko 
 
-## When 
-
-“Launch when your product is better than what’s out there” - Paul Buchheit
-
-## What
-
-Y Combinator CEO: “The True Test of Product-Market Fit Is 'Drowning in Demand'”
-
----
+Fucus the interaction design rather than the visual design.
 
 ### Focus on problems not solution
  
@@ -58,6 +56,12 @@ This is hard. Don't simply email the survey link to your friends - because of so
 
 ### Distill your entire product down to 1–2 features
 
+
+<p align="center">
+  <img width="700" height="500" src="https://i.imgur.com/WFyvp3s.png" alt="Sublime's custom image"/>
+</p>
+
+
 Your first version should be a feature instead of a product. Figure out what 1 feature summarizes the entire product.
 
 ### Aggressively market the heck out of it for 3 months
@@ -69,3 +73,5 @@ Focus on getting to a functional prototype as quickly as possible that you can g
 ### Ask yourself
 
 Were you able to get 100 users who insanely love your product? Are people coming back to use the product again? Are your users enthusiastic? After 3 months, you should have some basic feeling on whether this thing is gonna float or not.
+
+Best sc: 'drowning in demand'

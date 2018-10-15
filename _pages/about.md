@@ -26,8 +26,6 @@ You can also find me here:
 
 [TARS](https://www.producthunt.com/upcoming/tars)
 
-[Functions Fund](https://medium.com/functionsfund)
-
 
 ## Trash
 

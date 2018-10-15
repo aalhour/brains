@@ -7,23 +7,23 @@ permalink: /startup/
 
 [Marc Andreessen Essays](https://pmarchive.com/)
 
-[Paul Graham Essays](http://www.paulgraham.com/articles.html)
-
 ## Founder 
 
 [Strategy to Leverage the Odds : Don't play the play](https://medium.com/functionsfund/strategy-to-master-the-odds-62289b0f712)
 
 [Bad Advice](http://blog.eladgil.com/2013/11/bad-advice.html)
 
-[How To Fire A Co-Founder](http://blog.eladgil.com/2013/01/how-to-fire-co-founder.html)
+[Survivorship Bias and Startup Hype](https://www.sonyaellenmann.com/2018/06/survivorship-bias-and-startup-hype.html)
 
-[The Road To $5 Billion Is A Long One](http://blog.eladgil.com/2012/10/the-road-to-5-billion-is-long-one.html)
+[How To Fire A Co-Founder](http://blog.eladgil.com/2013/01/how-to-fire-co-founder.html)
 
 [Unequal Cofounders](http://blog.eladgil.com/2017/08/unequal-cofounders.html)
 
 [How To Choose A Co-Founder](http://blog.eladgil.com/2012/02/how-to-choose-co-founder.html)
 
 [Founder Roles](http://blog.eladgil.com/2016/12/founder-roles.html)
+
+[The Road To $5 Billion Is A Long One](http://blog.eladgil.com/2012/10/the-road-to-5-billion-is-long-one.html)
 
 
 ## Fundraising
@@ -52,9 +52,11 @@ permalink: /startup/
 
 [Preemptive Rounds](http://blog.eladgil.com/2018/06/preemptive-rounds.html)
 
-[Building VC Relationships](http://blog.eladgil.com/2017/02/building-vc-relationships.html)
-
 [What do I look for in a pitch?](https://news.greylock.com/what-do-i-look-for-in-a-pitch-866355bddb3)
+
+[Fear and loathing in venture capital](http://blog.maxniederhofer.com/fear-and-loathing-in-venture-capital)
+
+[VC Risking](https://allenleein.github.io/brains/2018/03/read-vc)
 
 [From Private To Public: How To Read An S-1](https://news.crunchbase.com/news/how-to-read-an-s1/)
 
@@ -63,13 +65,15 @@ permalink: /startup/
 
 [Strategy to Leverage the Odds : Don't play the play](https://medium.com/functionsfund/strategy-to-master-the-odds-62289b0f712)
 
+[Does every startup need a Steve Jobs?](https://andrewchen.co/does-every-startup-need-a-steve-jobs/)
+
 [The Power User Curve: The Best Way to Understand Your Most Engaged Users](https://a16z.com/2018/08/06/power-user-curve-l30-l7/)
 
 [Acquiring your first 100 customers](https://medium.com/@suhaild/acquiring-your-first-100-customers-5499866d10fb)
 
 [Thoughts on building weatherproof companies](https://medium.com/software-is-eating-the-world/thoughts-on-building-weatherproof-companies-6a72c658f72b)
 
-[You Don't Need A Good Idea To Start A Great Company](http://blog.eladgil.com/2011/01/you-dont-need-good-idea-to-start-great.html)
+[Reid Hoffman's Playbook for Growth and Network Effects](https://www.nfx.com/post/reid-hoffman-network-effects-interview-james-currier?utm_source=emai&utm_source=hs_email&utm_campaign=blitzscaling&utm_campaign=Email%20Newsletter&utm_medium=email&utm_content=66532329&_hsenc=p2ANqtz-8kSJc4ua8Rfz1BIdkKZoDo2wE68PueBrexRUX52t-6ClRmDBNBy4odnsbV97M8jooQ5OwjY60i36dAfkfH4KHN40_FIA&_hsmi=66532329)
 
 [The Benefits Of Thinking Small](http://blog.eladgil.com/2010/10/benefits-of-thinking-small.html)
 
@@ -77,22 +81,13 @@ permalink: /startup/
 
 [“[…] is a toy”](https://medium.learningbyshipping.com/is-a-toy-21312a5c8aea)
 
-[Competing with BigCo: 2018 Edition](https://medium.learningbyshipping.com/competing-with-bigco-2018-edition-6f475b7be86d)
-
-[10X Your Business](http://blog.eladgil.com/2010/10/10x-your-business.html)
-
 [Disruption’s Long, Slow, Complex Journey](https://medium.learningbyshipping.com/disruptions-long-slow-complex-journey-c43872788423)
 
-[New Things In New Ways, or Same Old Things In Old Ways?](https://medium.learningbyshipping.com/apples-software-problem-and-fixing-it-via-twitter-c941a905ba20)
+[The Network Effects Bible](https://www.nfx.com/post/network-effects-bible)
 
-[The 3 Types of "Platform" Companies](http://blog.eladgil.com/2015/01/the-3-types-of-platform-companies.html)
+[Black Design](http://www.black.design/)
 
-[Defensibility And Lock In: Uber & Lyft](http://blog.eladgil.com/2014/12/defensibility-and-lock-in-uber-lyft.html)
-
-[Dealing with doubt and over-confidence in building something new](https://blog.learningbyshipping.com/2013/02/27/dealing-with-doubt-and-over-confidence-in-building-something-new/)
-
-
-## Market Paradigm
+## Paradigm
 
 [Frictionless Design Choices](https://medium.learningbyshipping.com/frictionless-design-choices-fea3b40f8588)
 
@@ -101,14 +96,6 @@ permalink: /startup/
 [Nikon versus Canon: A Story Of Technology Change](https://medium.learningbyshipping.com/nikon-versus-canon-a-story-of-technology-change-45777098038c)
 
 [Mobile OS Paradigm](https://blog.learningbyshipping.com/2014/08/12/mobile-os-paradigm/)
-
-[Programming Languages and Platforms: an annotated twitter thread](https://medium.learningbyshipping.com/platforms-and-languages-f41960af9ec)
-
-[End of Cycle?](http://blog.eladgil.com/2016/07/end-of-cycle.html)
-
-[Divergent: Thoughts on Cross-Platform (Updated)](https://medium.learningbyshipping.com/divergent-thoughts-on-cross-platform-updated-68a925a45a83)
-
-[disrupt or die](https://blog.learningbyshipping.com/2013/05/)
 
 
 ## Wrong Prediction

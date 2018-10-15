@@ -1,15 +1,12 @@
 ---
 layout: content
-title: λ
+title: ☈⚡️
 permalink: /output/
 ---
 
-## Ghosts in the Shell
+### Humans
 
 [λ Ghosts in the Shell λ: Function Composition in a Network of Brains](https://github.com/allenleein/brains/wiki)
-
-
-## People
 
 [Dunkirk: The legend ends, the unknown knight rises](https://medium.com/@allenleein/dunkirk-943222cc8ea)
 
@@ -17,17 +14,16 @@ permalink: /output/
 
 [Contrarian](https://allenleein.github.io/brains/2018/05/contrarian)
 
-## Building 
+### Building 
+
+[Validate Your Idea](https://allenleein.github.io/brains/2018/06/validate-idea)
 
 [99.9% VC Would't Fund Facebook](https://allenleein.github.io/brains/2018/06/vc-bias)
 
 [A Cool Startup](https://allenleein.github.io/brains/2018/06/cool-startup)
 
-[Validate Your Idea](https://allenleein.github.io/brains/2018/06/validate-idea)
 
-[Paul Graham on Starting a Startup](https://allenleein.github.io/brains/2018/09/PG-talks)
-
-## Leverage the Odds
+### Leverage the Odds
 
 [Strategy to Leverage the Odds : Don't play the play](https://medium.com/functionsfund/strategy-to-master-the-odds-62289b0f712)
 
@@ -37,7 +33,7 @@ permalink: /output/
 
 ----
 
-#### My Input Library
+#### ⚡️ My Input Library
 
 [Podcast Library](https://allenleein.github.io/brains/podcast/)
 
